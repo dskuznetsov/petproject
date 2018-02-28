@@ -60,11 +60,6 @@
                 <artifactId>rest-assured</artifactId>
                 <version>3.0.6</version>
             </dependency>
-            <dependency>
-                <groupId>org.aeonbits.owner</groupId>
-                <artifactId>owner</artifactId>
-                <version>1.0.9</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 
